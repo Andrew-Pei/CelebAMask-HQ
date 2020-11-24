@@ -1,3 +1,5 @@
+forked from https://github.com/switchablenorms/CelebAMask-HQ
+
 # CelebAMask-HQ
 
 [[Paper]](https://arxiv.org/abs/1907.11922) [[Demo]](https://www.youtube.com/watch?v=T1o38DFalWs)  
